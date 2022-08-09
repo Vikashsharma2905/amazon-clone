@@ -1,0 +1,22 @@
+.checkout{
+    color: white;
+    background-color: #232323;
+    padding: 20px;
+    height: max-content;
+}
+.checkout_banner{
+    display: flex;
+    justify-content: center;
+}
+.checkout_title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.checkout_banner_right{
+    min-width: 100px;
+    background-color: red;
+    width: 100%;
+    align-items: center;
+}
